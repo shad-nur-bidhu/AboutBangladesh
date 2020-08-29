@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49554aec-4f35-4ce8-ad26-34ea99b1275a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Culture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demographics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Economy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Etymology.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/History.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bangladesh.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/125px-Flag_of_Bangladesh.svg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/220px-Bangladesh_(orthographic_projection).svg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/85px-National_emblem_of_Bangladesh.svg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/90px-Government_Seal_of_Bangladesh.svg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Screenshot_15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bangladesh.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bangladesh.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dsRAeZ73E3hmLv0gCUflvMo8Dm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/JavaExperiments/CSE110/Star Lab" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49554aec-4f35-4ce8-ad26-34ea99b1275a" name="Default Changelist" comment="" />
+      <created>1593211672358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593211672358</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593211961672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593211961672" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1593211919710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593211919710" />
+  </component>
+</project>

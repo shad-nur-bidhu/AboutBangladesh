@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+a:any-link {
+    color: #0808a2;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.header {
+    height: 100px;
+    width: 100%;
+    text-align: right;
+    color: #e7eff4;
+    padding: 20px;
+    background: #a1a1e2;
+}
+
+.left {
+    width: 50%;
+    float: left;
+}
+
+.section {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    color: #2a3036;
+    font-size: 15px;
+    background: #e7e7f2;
+
+}
+
+.ul {
+    width: 100%;
+    padding: 0;
+}
+
+.ul ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 2px;
+    overflow: hidden;
+    background-color: #d0d0ef;
+}
+
+.ul ul li {
+    float: left;
+}
+
+.ul ul li a {
+    margin-left: 60px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 25px;
+}
+
+.ul ul li a:hover {
+    background-color: #c8c8f2;
+}
+
+.child_div_a {
+    width: 15%;
+    padding: 10px;
+    float: left;
+    background: #e7e7f2;
+    text-align: center;
+
+}
+
+.child_div_b {
+    width: 65%;
+    padding: 40px;
+    float: left;
+    background: #ffffff;
+    font-style: normal;
+    color: #132838;
+}
+
+.child_div_d {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    border-spacing: 7px;
+    background: #e7e7f2;
+    table-layout: fixed;
+}
+
+td {
+    padding-left: 10px;
+}
+
+
+h1 {
+    font-size: 40px;
+}
+
+.footer_main {
+    width: 100%;
+    padding: 10px;
+    background-color: #d0d0ef;
+    text-align: center;
+    color: #2a3036;
+    font-size: 12px;
+
+}
+
+form {
+    margin-top: 10px;
+}
+
+.clr {
+    clear: both;
+}
+
+.footer {
+    word-spacing: 40px;
+    font-size: 15px;
+}
+
+.subart{
+    height: 1000px;
+}
+
+/* etymology_css */
+
+.subsec{
+background: #ffffff;    
+padding: 30px;
+}
+ 
+/* etymology_css */
+
+/* history_css */
+.article_header {
+    width: 100%;
+    padding: 20px;
+    background: #d0d0ef; 
+    text-align: left;
+    color: #282c2f;
+    height: 100px;
+}
+
+.button{
+    width: 50%;
+    float: left;
+}
+.title{
+    width: 50%;
+    float: left;
+}
+.article {
+    color: #2c3033;
+    background: #ffffff;
+    width: 80%;
+    float: left;
+    padding: 25px;
+}
+ 
+.nav{
+    width: 20%;
+    float: left;
+    background: #e7e7f2;
+    padding: 20px;
+}
+.nav ul a{
+    font-size: 15px;
+}
+/* history_css */
+
+
+
